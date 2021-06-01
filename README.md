@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently working at [HM Land Registry](https://www.gov.uk/government/organisations/land-registry) as a [Lead Software Engineer](https://www.gov.uk/guidance/software-developer#principal-developer)
 - 💻 I’m currently working mostly with Python and [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - 🔭 I maintain a couple of open source packages to help Python developers work with GOV.UK Frontend, namely [GOV.UK Frontend Jinja](https://github.com/LandRegistry/govuk-frontend-jinja) and [GOV.UK Frontend WTForms](https://github.com/LandRegistry/govuk-frontend-wtf)
-- 📫 How to reach me: [Twitter](https://twitter.com/MattShaw85)
+- 📫 How to reach me: [Twitter](https://twitter.com/MattShaw85) and [LinkedIn](https://uk.linkedin.com/in/matthew-shaw-8973a723)
 - 😄 Pronouns: he/him/his
 
 <!--
