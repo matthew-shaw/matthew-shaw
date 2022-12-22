@@ -4,7 +4,7 @@
 - 💻 I’m currently working with Python and [Flask](https://flask.palletsprojects.com)
 - 📦 I maintain open source packages to help Python developers work with GOV.UK Frontend, namely [GOV.UK Frontend Jinja](https://github.com/LandRegistry/govuk-frontend-jinja) and [GOV.UK Frontend WTForms](https://github.com/LandRegistry/govuk-frontend-wtf)
 - ↩️ I also develop side projects under my [Mash Software](https://github.com/MashSoftware) pseudonym in my spare time.
-- 📫 How to reach me: [Twitter](https://twitter.com/MattShaw85) and [LinkedIn](https://uk.linkedin.com/in/matthew-shaw-8973a723)
+- 📫 How to reach me: [Twitter](https://twitter.com/MattShaw85), [Mastodon](https://mastodon.me.uk/@mash) and [LinkedIn](https://uk.linkedin.com/in/matthew-shaw-8973a723)
 - 😄 Pronouns: he/him/his
 
 <!--
